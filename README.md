@@ -2,6 +2,7 @@ ConnectionSettings
 ===================
 
 This sample settings app allows people change the following preferences / parameters of peerdevicenet router services:
+
 		* device name: which will be shown to peer devices to identify this device.
 		* max sessions: max number of concurrent sessions with a peer device.
 		* search timeout: Duration of peer device search session.
