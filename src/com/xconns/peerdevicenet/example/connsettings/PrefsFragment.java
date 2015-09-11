@@ -309,5 +309,17 @@ public class PrefsFragment extends PreferenceFragment implements
 		@Override
 		public void onNetworkActivated(NetInfo net) {
 		}
+
+		@Override
+		public void onNetworkConnecting(NetInfo net) {
+			// TODO Auto-generated method stub
+			
+		}
+
+		@Override
+		public void onNetworkConnectionFailed(NetInfo net) {
+			// TODO Auto-generated method stub
+			
+		}
 	};
 }
