@@ -1,6 +1,8 @@
 ConnectionSettings
 ===================
 
+--- move to github.com/xconns-com/PeerDeviceNet ---
+
 This sample settings app allows people change the following preferences / parameters of peerdevicenet router services:
 
 		* device name: which will be shown to peer devices to identify this device.
