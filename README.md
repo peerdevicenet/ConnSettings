@@ -1,7 +1,7 @@
 ConnectionSettings
 ===================
 
---- move to github.com/xconns-com/PeerDeviceNet ---
+        --- move to http://github.com/xconns-com ---
 
 This sample settings app allows people change the following preferences / parameters of peerdevicenet router services:
 
